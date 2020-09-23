@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{9A2D568D-8F52-E76E-636C-2F3A800F57B9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scrips/etc/Result.cs">
+    <Files>
+      <File FileName="Assets/Scrips/Charactor/CreatePlayer2.cs" Line="106" Column="75" />
+      <File FileName="Assets/Scrips/Battle/CostManeger.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scrips/etc/GameManegement.cs" Line="136" Column="38" />
+      <File FileName="Assets/Scrips/Scene/tourtrialSceneChange.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scrips/etc/Result.cs" Line="28" Column="22" />
+      <File FileName="Assets/Scrips/Scene/SceneChangeManeger.cs" Line="12" Column="51" NotebookId="1" />
+      <File FileName="Assets/Scrips/Charactor/CreatePlayer1.cs" Line="111" Column="83" NotebookId="1" />
+      <File FileName="Assets/Scrips/Job/Heal.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scrips/Job/Healer.cs" Line="54" Column="63" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BasicGame" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scrips" expanded="True">
+                <Node name="Battle" expanded="True" />
+                <Node name="Charactor" expanded="True" />
+                <Node name="etc" expanded="True">
+                  <Node name="Result.cs" selected="True" />
+                </Node>
+                <Node name="Job" expanded="True" />
+                <Node name="Scene" expanded="True" />
+              </Node>
+              <Node name="Shaders" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="686dbd55-682e-4d80-bb58-157ecb82d43b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

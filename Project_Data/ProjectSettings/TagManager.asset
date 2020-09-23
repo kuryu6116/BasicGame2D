@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - player1
+  - player1_Bullet
+  - player2
+  - player2_Bullet
+  - goal1
+  - goal2
+  - button1
+  - button2
+  - job1
+  - job2
+  - player1_cost
+  - Player2_cost
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - effect
+  - 
+  - 
+  - character
+  - 
+  - 
+  - goal
+  - 
+  - 
+  - battlefield
+  - 
+  - 
+  - background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BasicLayer
+    uniqueID: 1625549291
+    locked: 0
