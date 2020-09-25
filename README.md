@@ -1,32 +1,22 @@
+ã€å®Ÿè¡Œç’°å¢ƒã€‘
+Windows10
+
+ã€å®Ÿè¡Œæ–¹æ³•ã€‘
+å®Ÿè¡Œãƒ‡ãƒ¼ã‚¿ãƒ•ã‚¡ã‚¤ãƒ«å†…ã®BasicGame.exeã‚’èµ·å‹•ã•ã›ã‚‹
+
 1/31
-y•ÏX“_z
-Žu–]——R‚Ì“ñ‚Â–Ú‚Ì€–Ú‚Ìíœ
+ã€å¤‰æ›´ç‚¹ã€‘
+å¿—æœ›ç†ç”±ã®äºŒã¤ç›®ã®é …ç›®ã®å‰Šé™¤
 
 
 1/16
-y•ÏX“_z
-¡ƒQ[ƒ€‹N“®‚ÌƒVƒ‡[ƒgƒJƒbƒg‚ð‘Š‘ÎƒpƒX‚É•ÏX
-Eu%windir%\System32\rundll32.exe url.dll,FileProtocolHandler "ŽÀsƒf[ƒ^\BasicGame.exe"v‚É•ÏX
+ã€å¤‰æ›´ç‚¹ã€‘
+â– ã‚²ãƒ¼ãƒ èµ·å‹•ã®ã‚·ãƒ§ãƒ¼ãƒˆã‚«ãƒƒãƒˆã‚’ç›¸å¯¾ãƒ‘ã‚¹ã«å¤‰æ›´
+ãƒ»ã€Œ%windir%\System32\rundll32.exe url.dll,FileProtocolHandler "å®Ÿè¡Œãƒ‡ãƒ¼ã‚¿\BasicGame.exe"ã€ã«å¤‰æ›´
 
-¡UIƒeƒLƒXƒgAƒR[ƒh‚ÌŒëŽš‚ÌC³(‘ÎÛ’PŒê‚ÍˆÈ‰º‚Ì’Ê‚è)
-EFiter ¨ Fighter
-ESerch ¨ Search
-EArcher ¨ Archar
-EDefence ¨ Defense
-¦‚±‚Ì•ÏX‚É”º‚¢ŠÖŒWŽ‘—¿‚à·‚µ‘Ö‚¦
-
-¡uH•v“_vŽ‘—¿‚ÌC³
-E‘S‘Ì“I‚ÉŽ‘—¿‚ª“Ç‚Ý‚Ã‚ç‚¢“_‚ðC³
- „¯•¶ŽšƒTƒCƒY24ptˆÈãA}Œ`‚Ì˜gü‚ð3ptˆÈã‚ÉÝ’è
-
-¡ƒQ[ƒ€à–¾Ž‘—¿‚ÌC³
-EV‚µ‚­ƒ_ƒ[ƒWŒvŽZ‚ÌƒXƒ‰ƒCƒh‚ð—pˆÓ
- „¯Õ“Ëƒ_ƒ[ƒW‚Æ‰“‹——£ƒ_ƒ[ƒW‚Å•ª‚¯‚ÄŒvŽZŽ®‚ðà–¾
-
-E‰ñ•œ‚Ìà–¾‚ªŒëŽš‚Æ—‰ð•s”\‚¾‚Á‚½“_‚ðC³
- „¯uAT’l•ªAƒoƒgƒ‹ƒtƒB[ƒ‹ƒh‚Ì–¡•ûƒLƒƒƒ‰ƒNƒ^[‚ð’èŠú“I‚É‰ñ•œ‚³‚¹‚éBv‚É•ÏX
-
-E•\Œ»‚Ì“ˆê(‘ÎÛ’PŒê‚ÍˆÈ‰º‚Ì’Ê‚è)
- „¯¢Š«ˆ— ¨ ƒLƒƒƒ‰ƒNƒ^[‚Ì¶¬
-
-EŠeŽí×‚©‚¢à–¾AŒëŽš‚ÌC³
+â– UIãƒ†ã‚­ã‚¹ãƒˆã€ã‚³ãƒ¼ãƒ‰ã®èª¤å­—ã®ä¿®æ­£(å¯¾è±¡å˜èªžã¯ä»¥ä¸‹ã®é€šã‚Š)
+ãƒ»Fiter â†’ Fighter
+ãƒ»Serch â†’ Search
+ãƒ»Archer â†’ Archar
+ãƒ»Defence â†’ Defense
+â€»ã“ã®å¤‰æ›´ã«ä¼´ã„é–¢ä¿‚è³‡æ–™ã‚‚å·®ã—æ›¿ãˆ
